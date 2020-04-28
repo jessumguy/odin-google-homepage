@@ -14,8 +14,7 @@ I have no idea what I'm doing.
 
 Date: 28/04/2020, 10:10PM
 
-
-
+[I'm an inline-style link with title](https://jessumguy.github.io/google-homepage/ "DEMO")
 
 # Notable References used:
 
