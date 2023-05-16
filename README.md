@@ -14,7 +14,9 @@ I have no idea what I'm doing.
 
 Date: 28/04/2020, 10:10PM
 
-[DEMO](https://jessumguy.github.io/google-homepage/ "Google Homepage")
+[DEMO]https://jessumguy.github.io/odin-google-homepage/
+
+![image](https://github.com/jessumguy/odin-google-homepage/assets/43509228/91de5508-5dd9-491b-9b82-bb82ed4fecb4)
 
 # Notable References used:
 
